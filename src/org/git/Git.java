@@ -16,6 +16,7 @@ public class Git {
 		
 		for(int x: a) {
 			System.out.println(x);
+			System.out.println(x);
 		}
 	}
 	
